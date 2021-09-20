@@ -1,0 +1,76 @@
+
+.container{
+  text-align: center;
+  margin-top: 1.5%;
+  margin-bottom: 2%;
+}
+
+.heading{
+  font-size: 5rem;
+  font-weight: 900;
+  padding-bottom: 5%;
+}
+
+.form{
+  background-color: #171717;
+  padding: 5%;
+}
+
+.date, .time, .message{
+  margin-bottom: 3%;
+}
+
+.all-form{
+  background-color: white;
+  padding:5%;
+}
+
+.fas{
+  font-size: 3rem;
+  padding-right: 1%;
+}
+
+.fa-sticky-note{
+  padding-right: 2%;
+}
+
+.input-message{
+  width: 61%;
+}
+
+.input-time, .input-date, .input-message{
+  text-align: center;
+  padding: .5%;
+}
+
+.submit{
+  width: 45%;
+  background-color: #171717;
+  color: white;
+  font-size: 2rem;
+  border: 1px solid #171717;
+  border-radius: 5px;
+}
+
+.submit:hover{
+  background-color: #222222;
+  border-color: #333333;
+}
+
+.timer {
+  text-align: center;
+  font-size: 100px;
+  height: 300px;
+  margin-top: 15%;
+  background: #171717;
+  color: white;
+  padding-top: 60px;
+}
+
+.timer , .input-message::after{
+  color: white;
+}
+
+.formno{
+  display:none;
+}
